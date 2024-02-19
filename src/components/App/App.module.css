@@ -1,0 +1,17 @@
+.title {
+  font-size: 34px;
+  margin-bottom: 30px;
+  color: hsl(198, 64%, 32%);
+  text-align: center;
+  margin-top: 20px;
+}
+
+.noContacts {
+  text-align: center;
+  margin-top: 20px;
+  font-family: -apple-system, system-ui, 'Segoe UI', Helvetica, Arial,
+    sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji';
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 40px;
+}
